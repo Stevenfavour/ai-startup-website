@@ -10,7 +10,7 @@ Below shows the image of the three branches that we are going to be working with
 
  ![Creating a PR](./Img2/add_contact_PR.png)
 
- ![Creating a PR](./Img2/pr.png)
+ ![Creating a PR](./Img2/PR.png)
 
  After assigning myself as a reviewer, I then approved the pull request and merged the changes from the add-contact-info branch to the main branch.
 
@@ -22,7 +22,7 @@ Below shows the image of the three branches that we are going to be working with
  
  The image below shows the git commands to switch to this branch and also pulling and ensuring it is upto date with the mian branch so as to avoid conflict when pushing to the remote repos.
 
- ![Pull Origin Main](./Img2/2ND_PR.png)
+ ![Pull Origin Main](./Img2/2nd_PR.png)
 
  Now that this branch is up to date with the main branches, changes were made to index.html file. Commits and push were made to the branch using the source control tab on VS CODE (not with git commands). A new pull request is then created so as to merge the changes into the main branch.
 
@@ -32,12 +32,12 @@ Below shows the image of the three branches that we are going to be working with
 
 The image below comapared the changes that are about to the merged
 
- ![Changes to be merged](./Img2/2ndPR4.png)
+ ![Changes to be merged](./Img2/2NDPR4.png)
 
- ![Merge to Main](./Img2/2ndPR5.png)
+ ![Merge to Main](./Img2/2NDPR5.png)
 
  Below indicates a successful merge completed.
 
-![Merge to Main](./Img2/mergesucces.png)
+![Merge to Main](./Img2/MERGESUCCES.png)
 
 
